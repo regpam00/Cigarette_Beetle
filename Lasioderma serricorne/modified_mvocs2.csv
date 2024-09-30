@@ -1,0 +1,91 @@
+Trial No.,Treatment,Distance moved (cm),Velocity (cm/s)
+     16,AF grain vs. Ctrl,0.0,0.0
+     18,AF grain vs. Ctrl,0.0,0.0
+     5,AF grain vs. Ctrl,242.187,0.135939
+     7,AF grain vs. Ctrl,302.522,0.16821
+     8,AF grain vs. Ctrl,16.2033,0.00978232
+     9,AF grain vs. Ctrl,330.07,0.199714
+    10,AF grain vs. Ctrl,113.691,0.0708777
+    11,AF grain vs. Ctrl,243.185,0.142797
+    12,AF grain vs. Ctrl,94.5637,0.339225
+    13,AF grain vs. Ctrl,463.76,0.322948
+    14,AF grain vs. Ctrl,110.717,0.065345
+    15,AF grain vs. Ctrl,121.173,0.0750447
+    17,AF grain vs. Ctrl,15.1453,0.00856547
+    19,AF grain vs. Ctrl,270.499,0.168923
+    20,AF grain vs. Ctrl,16.2244,0.0104873
+    21,AF grain vs. Ctrl,1.50582,0.000903738
+    22,AF grain vs. Ctrl,11.5988,0.0272383
+    23,AF grain vs. Ctrl,20.419,0.0161141
+     13,Ctrl vs. Ctrl,0.0,0.0
+     22,Ctrl vs. Ctrl,0.0,0.0
+     5,Ctrl vs. Ctrl,372.64,0.207636
+     7,Ctrl vs. Ctrl,851.793,0.473697
+     8,Ctrl vs. Ctrl,315.944,0.176215
+     9,Ctrl vs. Ctrl,23.3772,0.0129973
+    10,Ctrl vs. Ctrl,259.532,0.144296
+    11,Ctrl vs. Ctrl,406.766,0.227127
+    12,Ctrl vs. Ctrl,450.29,0.250363
+    14,Ctrl vs. Ctrl,2887.14,1.66455
+    15,Ctrl vs. Ctrl,318.881,0.177335
+    16,Ctrl vs. Ctrl,517.783,0.290349
+    17,Ctrl vs. Ctrl,254.795,0.158607
+    18,Ctrl vs. Ctrl,313.414,0.321751
+    19,Ctrl vs. Ctrl,3910.06,2.2614
+    20,Ctrl vs. Ctrl,29.7173,0.0296612
+    21,Ctrl vs. Ctrl,69.8491,0.0811263
+    23,Ctrl vs. Ctrl,36.6723,0.0459002
+     15,FS grain vs. Ctrl,0.0,0.0
+     19,FS grain vs. Ctrl,0.0,0.0
+     22,FS grain vs. Ctrl,0.0,0.0
+     5,FS grain vs. Ctrl,304.415,0.342813
+     7,FS grain vs. Ctrl,149.25,0.086531
+     8,FS grain vs. Ctrl,477.144,0.457535
+     9,FS grain vs. Ctrl,96.1645,0.58235
+    10,FS grain vs. Ctrl,79.5396,0.0561224
+    11,FS grain vs. Ctrl,70.5303,0.179651
+    12,FS grain vs. Ctrl,379.183,0.273465
+    13,FS grain vs. Ctrl,97.8957,0.0547296
+    14,FS grain vs. Ctrl,470.963,0.266994
+    16,FS grain vs. Ctrl,360.29,0.40171
+    17,FS grain vs. Ctrl,222.65,0.177181
+    18,FS grain vs. Ctrl,409.016,0.291685
+    20,FS grain vs. Ctrl,23.3161,0.0158892
+    21,FS grain vs. Ctrl,37.0832,0.0359907
+    23,FS grain vs. Ctrl,3.52365,0.0021227
+     14,Normal Grain vs. Ctrl,0.0,0.0
+     19,Normal Grain vs. Ctrl,0.0,0.0
+     5,Normal Grain vs. Ctrl,27.9697,0.0155533
+     7,Normal Grain vs. Ctrl,53.1796,0.171844
+     8,Normal Grain vs. Ctrl,392.844,0.220499
+     9,Normal Grain vs. Ctrl,19.1404,0.0107182
+    10,Normal Grain vs. Ctrl,193.913,0.181206
+    11,Normal Grain vs. Ctrl,126.314,0.174357
+    12,Normal Grain vs. Ctrl,4.0265,0.0476138
+    13,Normal Grain vs. Ctrl,243.215,0.139452
+    15,Normal Grain vs. Ctrl,7.03647,0.00391231
+    16,Normal Grain vs. Ctrl,212.36,0.121303
+    17,Normal Grain vs. Ctrl,285.96,0.379664
+    18,Normal Grain vs. Ctrl,548.627,0.387525
+    20,Normal Grain vs. Ctrl,174.48,0.108556
+    21,Normal Grain vs. Ctrl,70.208,0.0542921
+    22,Normal Grain vs. Ctrl,364.133,0.265573
+    23,Normal Grain vs. Ctrl,150.444,0.289115
+     17,UV Sterilized Grain vs. Ctrl,0.0,0.0
+     19,UV Sterilized Grain vs. Ctrl,0.0,0.0
+     5,UV Sterilized Grain vs. Ctrl,848.292,0.508716
+     7,UV Sterilized Grain vs. Ctrl,48.1942,0.0633723
+     8,UV Sterilized Grain vs. Ctrl,558.107,0.315585
+     9,UV Sterilized Grain vs. Ctrl,310.124,0.172706
+    10,UV Sterilized Grain vs. Ctrl,262.706,0.278647
+    11,UV Sterilized Grain vs. Ctrl,597.324,0.544099
+    12,UV Sterilized Grain vs. Ctrl,199.568,0.205998
+    13,UV Sterilized Grain vs. Ctrl,568.348,0.434012
+    14,UV Sterilized Grain vs. Ctrl,390.942,0.252234
+    15,UV Sterilized Grain vs. Ctrl,192.487,0.107586
+    16,UV Sterilized Grain vs. Ctrl,139.649,0.27492
+    18,UV Sterilized Grain vs. Ctrl,5.52015,0.00307213
+    20,UV Sterilized Grain vs. Ctrl,50.7346,0.0443644
+    21,UV Sterilized Grain vs. Ctrl,98.8281,0.0800668
+    22,UV Sterilized Grain vs. Ctrl,49.7594,0.0495897
+    23,UV Sterilized Grain vs. Ctrl,26.9924,0.0346519
